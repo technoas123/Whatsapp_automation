@@ -23,7 +23,7 @@ A Python script to automate sending WhatsApp group invitations to multiple conta
 
 1. **Clone or download the script**
 ```bash
-git clone <your-repository-url>
+git clone <this-repo-url>
 cd whatsapp-automation
 ```
 
@@ -43,8 +43,6 @@ pip install pandas pywhatkit openpyxl
 whatsapp-automation/
 ├── whatsapp_automation.py    # Main script
 ├── contacts.xlsx            # Contacts file (you create this)
-├── logs/                    # Auto-created log files
-├── reports/                 # Auto-created reports
 └── README.md
 ```
 
@@ -200,3 +198,4 @@ If you encounter issues:
 ---
 
 ** If this project helped you, please give it a star!**
+
